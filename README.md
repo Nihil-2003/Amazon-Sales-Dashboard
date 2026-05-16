@@ -110,7 +110,7 @@ The dataset contains:
 
 This Power BI dashboard helps businesses understand Amazon sales performance, product demand, customer response, and regional sales trends using interactive visuals.
 
-##11. 🔗 Live Dashboard Link
+## 11. 🔗 Live Dashboard Link
 
 Click below to view the interactive Power BI Dashboard:
 
