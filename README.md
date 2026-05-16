@@ -24,7 +24,7 @@ Amazon Sales Dashboard is a Power BI project created to analyze product sales, o
 
 ### Page 1: Overview
 
-This page shows overall Amazon sales performance.
+![Dashboard Screenshot](https://github.com/Nihil-2003/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Overview%20Dashboard%20Image.png)
 
 **KPIs Included:**
 
