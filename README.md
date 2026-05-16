@@ -42,7 +42,7 @@ Amazon Sales Dashboard is a Power BI project created to analyze product sales, o
 
 ## 5. Product Page
 
-This page displays product categories and individual product details.
+![Dashboard Screenshot](https://github.com/Nihil-2003/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Product%20Dashboard%20Image.png)
 
 **Features:**
 
