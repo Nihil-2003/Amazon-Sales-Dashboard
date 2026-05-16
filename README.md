@@ -109,3 +109,9 @@ The dataset contains:
 ## 10. Project Outcome
 
 This Power BI dashboard helps businesses understand Amazon sales performance, product demand, customer response, and regional sales trends using interactive visuals.
+
+##11. 🔗 Live Dashboard Link
+
+Click below to view the interactive Power BI Dashboard:
+
+[View Amazon Sales Dashboard](https://app.powerbi.com/groups/me/reports/027aa231-1b01-4d54-82b1-2db8b3d6ac31/0daf67d6d09280e6060c?experience=power-bi)
